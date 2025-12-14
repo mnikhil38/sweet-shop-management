@@ -196,14 +196,19 @@ npm test
 
 This will run all backend unit and integration tests.
 
-📸 Screenshots
+📸 ###Screenshots
 
-<img width="661" height="366" alt="Screenshot 2025-12-14 145507" src="https://github.com/user-attachments/assets/add9fecd-3d74-4dee-ac21-fefb276ed673" />
-<img width="654" height="396" alt="Screenshot 2025-12-14 145437" src="https://github.com/user-attachments/assets/ab7102c1-c1f6-428e-909c-c24ae8fff23c" />
-<img width="1837" height="522" alt="Screenshot 2025-12-14 171204" src="https://github.com/user-attachments/assets/fca71fc2-a8b2-4707-99f1-f7553b7e093f" />
-<img width="1078" height="643" alt="Screenshot 2025-12-14 171247" src="https://github.com/user-attachments/assets/48815cf9-0a62-4cf3-97a2-375797d74d80" />
-<img width="1841" height="820" alt="Screenshot 2025-12-14 172841" src="https://github.com/user-attachments/assets/1548c424-5380-40ba-8ac2-4319993016f0" />
-<img width="1847" height="293" alt="Screenshot 2025-12-14 172752" src="https://github.com/user-attachments/assets/f06df02a-f2cc-4e17-b215-7be08730cd81" />
+### Login Page
+<img src="login.png" alt="Login" width="600"/>
+
+### Register Page
+<img src="register.png" alt="Register" width="800"/>
+
+### Dashboard
+<img src="Dashboard.png" alt="Dashboard" width="1000"/>
+
+### Admin Panel
+<img src="admin.png" alt="Admin Panel" width="1000"/>
 
 🤖 My AI Usage
 
